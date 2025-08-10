@@ -1,2 +1,2 @@
-# CRKT-Kit
-Turkey Corne Keyboard Kit
+# Swoop-Kit
+Turkey Swoop Keyboard Kit
