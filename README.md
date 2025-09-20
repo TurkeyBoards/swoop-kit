@@ -1,3 +1,5 @@
+![Turkey Swoop Kit Keyboard](/images/Turkey-Swoop-Kit.png)
+
 # Turkey Swoop Kit Keyboard
 The Swoop is a low-profile, split ergonomic keyboard designed for ultimate typing comfort and portability. With its compact, column-staggered layout and refined thumb cluster, the Swoop provides a natural hand position that minimizes strain while maximizing efficiency. Its lightweight, travel-friendly design makes it an excellent choice for both desktop use and on-the-go setups.
 
